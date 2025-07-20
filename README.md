@@ -6,7 +6,7 @@ Users can fill out a form to submit employee details like name, gender, email, s
 
  The project demonstrates core Java EE concepts using Jakarta Servlets, HTML forms, and JDBC for database interaction.
 
-## 💡 Features (Planned & Implemented):
+## 💡 Features 
 
 - ✅ Add Employee — Register employee with details like name, gender, DOB, etc.
 - ⏳ View Employees — Show all employee records (Coming Soon)
